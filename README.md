@@ -1,4 +1,4 @@
-Olá, meu nome é Pedro Ribon e sou um desenvolvedor front-end. Trabalho com web há 5 anos e tenho experiência em uma variedade de tecnologias, incluindo HTML, CSS, JavaScript, React, Angular e Vue. Sou apaixonado por criar experiências de usuário envolventes e estou sempre procurando novas maneiras de melhorar minhas habilidades.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
